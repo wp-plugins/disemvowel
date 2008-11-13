@@ -15,4 +15,4 @@ Simple plugin designed to help regulate all comments. Based on a suggested idea:
 1. Upload `disemvowel.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
-It will automatically filter your comments.
+That's it! It will automatically filter your comments.
